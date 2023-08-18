@@ -1,0 +1,9 @@
+# Generated subdirectories
+/results/
+/tmp_check/
+
+*.o
+*.so
+*~
+
+.deps
